@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5a4f8faf.chunk.css",
+    "main.js": "./static/js/main.1dcc2f53.chunk.js",
+    "main.js.map": "./static/js/main.1dcc2f53.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9abc4a2b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9abc4a2b.js.map",
+    "static/js/2.f3bf6c93.chunk.js": "./static/js/2.f3bf6c93.chunk.js",
+    "static/js/2.f3bf6c93.chunk.js.map": "./static/js/2.f3bf6c93.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5a4f8faf.chunk.css.map": "./static/css/main.5a4f8faf.chunk.css.map",
+    "static/js/2.f3bf6c93.chunk.js.LICENSE.txt": "./static/js/2.f3bf6c93.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/DigitalNumbers-Regular.a1fd4994.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9abc4a2b.js",
+    "static/js/2.f3bf6c93.chunk.js",
+    "static/css/main.5a4f8faf.chunk.css",
+    "static/js/main.1dcc2f53.chunk.js"
+  ]
+}
